@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Requests library for HTTP requests
+requests
+
+# Library for loading environment variables from a .env file
+python-dotenv
+
+# Pytest for running tests
+pytest
+
+# Unittest.mock library for mocking in tests
+# Note: 'unittest' is part of the standard library for Python, so it does not need to be installed separately
+
+# Tkinter library for GUI
+# Note: 'tkinter' is part of the standard library for Python, so it does not need to be installed separately
